@@ -1,0 +1,1 @@
+// write c program to generate the sum of n natural number //
